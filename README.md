@@ -1,6 +1,7 @@
 # foodapp
 
 A new Flutter project.
+Basic Flutter app create with Basic Widget
 
 ## Getting Started
 
